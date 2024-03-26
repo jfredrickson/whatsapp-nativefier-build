@@ -4,5 +4,5 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=WhatsApp
-Exec=/opt/whatsapp-linux-x64/whatsapp
+Exec=/opt/WhatsApp-linux-x64/WhatsApp
 Icon=whatsapp
